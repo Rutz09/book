@@ -11,6 +11,7 @@
 }
 
 header {
+  font-size: 50px;
   background: #f2f1f1;
   display: flex;
   justify-content: space-between;
@@ -164,3 +165,4 @@ a {
   background-color: transparent;
 }
 /* *************Admin Home Section************************** */
+
